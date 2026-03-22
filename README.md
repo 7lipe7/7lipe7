@@ -1,5 +1,4 @@
-💻 Estudante de Desenvolvimento de Sistemas     📍 Brasil  
-🚀 Focado em Full Stack e Banco de Dados  
+ Estudante de Desenvolvimento de Sistemas      Brasil   
                                                            
 
 Sou estudante de Desenvolvimento de Sistemas com foco na criação de sistemas web completos. Tenho experiência prática desenvolvendo projetos com integração entre front-end e back-end, utilizando banco de dados e lógica de programação.
