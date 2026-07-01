@@ -11,7 +11,7 @@ Atualmente, estou evoluindo minhas habilidades e buscando minha primeira oportun
 -    **Linguagens:** PHP, JavaScript, Python  
 -    **Banco de Dados:** MySQL (SQL)  
 -    **Front-End:** HTML, CSS  
--    **Back-End / Outros:** Node.js  
+-    **Back-End / Outros:** Node.js ,java, C
 -    **Ferramentas:** XAMPP, Git, GitHub, DBeaver  
 
 
