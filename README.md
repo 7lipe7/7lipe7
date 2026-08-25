@@ -12,7 +12,7 @@ Atualmente, estou evoluindo minhas habilidades e buscando minha primeira oportun
 -    **Banco de Dados:** MySQL (SQL)  
 -    **Front-End:** HTML, CSS  
 -    **Back-End / Outros:** Node.js ,java, C
--    **Ferramentas:** XAMPP, Git, GitHub, DBeaver  
+-    **Ferramentas:** MySQL, Git, GitHub, DBeaver  
 
 
  Projetos
