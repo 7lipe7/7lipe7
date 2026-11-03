@@ -2,7 +2,11 @@
 
 # Felipe Santana Lopes
 
-### **Desenvolvedor de Software Multiplataforma | Full Stack Developer**
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vcenter=true&width=500&lines=Desenvolvedor+de+Software+Multiplataforma;Full+Stack+Developer;Engenharia+de+Software">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vcenter=true&width=500&lines=Desenvolvedor+de+Software+Multiplataforma;Full+Stack+Developer;Engenharia+de+Software" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santana-lopes)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7lipe7)
@@ -102,6 +106,8 @@ Sistema desenvolvido como Projeto Integrador na FATEC.
 
 <div align="center">
 
-*Aprendizado contínuo, desenvolvimento de soluções reais e evolução constante em Engenharia de Software.*
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=666666&center=true&vcenter=true&width=700&lines=Aprendizado+cont%C3%ADnuo%2C+desenvolvimento+de+solu%C3%A7%C3%B5es+reais+e+evolu%C3%A7%C3%A3o+constante+em+Engenharia+de+Software.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=666666&center=true&vcenter=true&width=700&lines=Aprendizado+cont%C3%ADnuo%2C+desenvolvimento+de+solu%C3%A7%C3%B5es+reais+e+evolu%C3%A7%C3%A3o+constante+em+Engenharia+de+Software." alt="Frase final animada" />
+</a>
 
 </div>
