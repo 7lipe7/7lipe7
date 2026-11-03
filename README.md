@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Felipe Santana Lopes! 👋
+# Felipe Santana Lopes
 
 ### **Desenvolvedor de Software Multiplataforma | Full Stack Developer**
 
@@ -13,74 +13,95 @@
 
 </div>
 
-## 🚀 Sobre Mim
+## Sobre mim
 
-Estudante de **Desenvolvimento de Software Multiplataforma na FATEC Araras**, com formação técnica em **Desenvolvimento de Sistemas pela ETEC**. 
+Estudante de Desenvolvimento de Software Multiplataforma na FATEC Araras, com formação técnica em Desenvolvimento de Sistemas pela ETEC.
 
-Tenho experiência prática no desenvolvimento de aplicações web completas, atuando na integração entre front-end, back-end, APIs REST e bancos de dados relacionais. Gosto de transformar ideias em soluções funcionais, desenvolver sistemas para necessidades reais e aprimorar continuamente minhas habilidades em programação, arquitetura de software e engenharia de sistemas.
+Tenho experiência prática no desenvolvimento de aplicações web completas, trabalhando com integração entre front-end, back-end, APIs REST e bancos de dados relacionais.
 
-📌 **Objetivo Profissional:** Busco minha primeira oportunidade (estágio ou posição júnior) na área de Tecnologia da Informação, com foco em **Desenvolvimento Full Stack, Back-end e Engenharia de Software**.
+Tenho interesse em arquitetura de software, engenharia de sistemas e desenvolvimento de soluções que atendam a necessidades reais. Busco constantemente aprimorar minhas habilidades técnicas por meio de estudos e projetos práticos.
+
+**Objetivo profissional:** Conquistar uma oportunidade de estágio ou posição júnior em Tecnologia da Informação, com foco em Desenvolvimento Web, Back-end ou Full Stack.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
 | Categoria | Tecnologias |
 |---|---|
 | **Linguagens** | `JavaScript` `TypeScript` `PHP` `Java` `Python` `C` `C++` |
 | **Front-end** | `HTML5` `CSS3` `React` `Vite` `Bootstrap` |
 | **Back-end** | `Node.js` `PHP` `APIs REST` `JWT` `Autenticação & Autorização` |
-| **Bancos de Dados** | `MySQL` `PostgreSQL` `SQL` `Supabase` |
-| **Ferramentas & DevOps** | `Git` `GitHub` `Docker` `Linux` `DBeaver` `VS Code` |
+| **Bancos de dados** | `MySQL` `PostgreSQL` `SQL` `Supabase` |
+| **Ferramentas** | `Git` `GitHub` `Docker` `Linux` `DBeaver` `VS Code` |
 
 ---
 
-## 💻 Projetos em Destaque
+## Projetos em destaque
 
-### 💳 **DinDin — Sistema de Gestão Financeira**
-> Aplicação web para gerenciamento financeiro pessoal.
+### **DinDin — Sistema de Gestão Financeira**
+Aplicação web para gerenciamento de finanças pessoais.
 
-- ⚙️ **Destaques:** Cadastro/gerenciamento de receitas e despesas, API REST com persistência de dados, autenticação de usuários e painel administrativo.
-- 🧰 **Techs:** React, JavaScript, Node.js, MySQL, APIs REST.
-- 🔗 **Repositório:** [github.com/7lipe7/dindin](https://github.com/7lipe7/dindin)
+- Cadastro e gerenciamento de receitas e despesas.
+- Integração entre front-end e back-end por meio de API REST.
+- Autenticação e gerenciamento de usuários.
+- Painel administrativo e controle de transações.
+- Organização e persistência de dados.
 
----
-
-### 🧶 **Lari Amigurumi — E-commerce**
-> Plataforma web desenvolvida para uma loja real de produtos artesanais.
-
-- ⚙️ **Destaques:** Catálogo de produtos, gerenciamento de encomendas, painel administrativo, controle de status, armazenamento de imagens e políticas de segurança.
-- 🧰 **Techs:** React, TypeScript, Supabase, Vercel.
-- 🔗 **Projeto Online:** [lariamigurumi.vercel.app](https://lariamigurumi.vercel.app)
+**Tecnologias:** React, JavaScript, Node.js, MySQL e APIs REST.  
+**Repositório:** [github.com/7lipe7/dindin](https://github.com/7lipe7/dindin)
 
 ---
 
-### 🐾 **Amora Banho e Tosa — Sistema de Gestão**
-> Sistema de gerenciamento desenvolvido como Projeto Integrador na FATEC.
+### **Lari Amigurumi — E-commerce**
+Plataforma desenvolvida para uma loja real de produtos artesanais.
 
-- ⚙️ **Destaques:** Gestão de clientes e pets, controle de agendamentos, dashboard administrativo, controle de acesso e arquitetura MVC.
-- 🧰 **Techs:** PHP, MySQL, JavaScript, Bootstrap, Docker.
+- Catálogo e gerenciamento de produtos.
+- Administração de encomendas.
+- Painel administrativo.
+- Controle de disponibilidade e status dos produtos.
+- Integração com banco de dados e armazenamento de imagens.
+- Políticas de segurança e controle de acesso.
 
----
-
-## 📚 Atualmente Estudando
-
-- 🧠 **Fundamentos:** Estrutura de Dados, Algoritmos e Matemática da Computação.
-- ☕ **POO:** Programação Orientada a Objetos com Java.
-- 🌐 **Web Ecosystem:** Ecossistema Moderno JavaScript / TypeScript, Node.js e React.
-- 🗄️ **Data & Architecture:** Modelagem de Bancos de Dados SQL, Arquitetura e Boas Práticas de Software.
+**Tecnologias:** React, TypeScript, Supabase e Vercel.  
+**Projeto online:** [lariamigurumi.vercel.app](https://lariamigurumi.vercel.app)
 
 ---
 
-## 🎓 Formação Acadêmica
+### **Amora Banho e Tosa — Sistema de Gestão**
+Sistema desenvolvido como Projeto Integrador na FATEC.
 
-- 🎓 **FATEC Araras** — *Desenvolvimento de Software Multiplataforma (DSM)* `2026 – 2028` *(Cursando)*
-- 📜 **ETEC Prefeito Alberto Feres** — *Técnico em Desenvolvimento de Sistemas* `2023 – 2025` *(Concluído)*
+- Gerenciamento de clientes e animais.
+- Controle de serviços e agendamentos.
+- Dashboard administrativo.
+- Autenticação e controle de acesso.
+- Arquitetura MVC e organização das funcionalidades.
+- Modelagem e estruturação de banco de dados.
+
+**Tecnologias:** PHP, MySQL, JavaScript, Bootstrap e Docker.
+
+---
+
+## Atualmente estudando
+
+- **Estrutura de Dados:** Algoritmos, estruturas e análise de problemas computacionais.
+- **Matemática da Computação:** Fundamentos matemáticos aplicados à computação.
+- **Programação Orientada a Objetos:** Conceitos de POO utilizando Java.
+- **Desenvolvimento Web:** JavaScript, TypeScript, Node.js e React.
+- **Banco de Dados:** SQL, modelagem e organização de dados.
+- **Engenharia de Software:** Arquitetura, organização e boas práticas de desenvolvimento.
+
+---
+
+## Formação acadêmica
+
+- **FATEC Araras** — *Desenvolvimento de Software Multiplataforma (DSM)* `2026 – 2028` *(Cursando)*
+- **ETEC Prefeito Alberto Feres** — *Técnico em Desenvolvimento de Sistemas* `2023 – 2025` *(Concluído)*
 
 ---
 
 <div align="center">
 
-*“Aprendizado contínuo, desenvolvimento de soluções reais e evolução constante em Engenharia de Software.”*
+*Aprendizado contínuo, desenvolvimento de soluções reais e evolução constante em Engenharia de Software.*
 
 </div>
