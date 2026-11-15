@@ -70,7 +70,7 @@ Plataforma desenvolvida para uma loja real de produtos artesanais.
 
 **Tecnologias:** React, TypeScript, Supabase e Vercel.
 
-**Projeto online:** [lariamigurumi.vercel.app](https://lariamigurumi.com/)
+**Projeto online:** [lariamigurumi.com](https://lariamigurumi.com/)
 
 ### Amora Banho e Tosa — Sistema de Gestão
 
